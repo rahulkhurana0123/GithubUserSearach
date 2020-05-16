@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAF Assignment</string>
+    <string name="name">Rahul Khurana</string>
+    <string name="date"></string>
+    <string name="search_name">Search users</string>
+    <string name="empty_list">No record found</string>
+    <string name="loading">please wait</string>
+</resources>
